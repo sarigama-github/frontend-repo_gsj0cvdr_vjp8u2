@@ -1,2 +1,3 @@
-# frontend-repo_gsj0cvdr_vjp8u2
-Auto-generated frontend repository for project prj_gsj0cvdr
+# Dev Done
+
+A playful landing for software developers who like to have fun. Includes sections for podcast episodes, blog posts, and meetup videos. Primary color: magenta pink.
